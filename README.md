@@ -4,7 +4,7 @@ Freelance full-stack developer from the Netherlands 🇳🇱. I build web apps, 
 
 ## Things I've built
 
-- [logic-nodes](https://github.com/semvis123/logic-nodes): a free online [logic gate simulator](https://nodes.kriyak.com/) with a hand-written canvas editor, truth tables, and boolean expression synthesis
+- [logic-nodes](https://github.com/semvis123/logic-nodes): a free online [logic gate simulator](https://nodes.kriyak.com/about) with a hand-written canvas editor, truth tables, and boolean expression synthesis
 - [Sonitus](https://github.com/semvis123/Sonitus): noise-control like native, for non-Apple headphones
 - [go-catdoc](https://github.com/semvis123/go-catdoc): read legacy `.doc` files in pure Go, by running catdoc as WebAssembly (no cgo)
 - [esphome-crowpanel-4.2-epaper](https://github.com/semvis123/esphome-crowpanel-4.2-epaper): ESPHome support for the CrowPanel 4.2" e-paper display
