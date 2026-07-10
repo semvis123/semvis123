@@ -19,6 +19,6 @@ Occasionally I write about the engineering behind these on [my blog](https://kri
 
 ## Contact
 
-Available for freelance work, from the Netherlands and worldwide: [kriyak.com/contact](https://kriyak.com/contact/), or email **gh-contact@kriyak.com**. I'm also on [Twitter](https://twitter.com/semvis123).
+Available for freelance work, in the Netherlands and worldwide: [kriyak.com/contact](https://kriyak.com/contact/), or email **gh-contact@kriyak.com**. I'm also on [Twitter](https://twitter.com/semvis123).
 
 ⚡ Fun fact: **I like programming**
