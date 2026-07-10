@@ -1,26 +1,24 @@
-<h1 align="center">Hi, I'm Sem</h1>
-<h3 align="center">A developer from The Netherlands 🇳🇱</h3>
+# Hi, I'm Sem
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semvis123&label=Profile%20views&color=0e75b6&style=flat" alt="semvis123" /> </p>
+Freelance full-stack developer from the Netherlands 🇳🇱. I build custom software at [kriyak.com](https://kriyak.com): web apps, backends, and native iOS, mostly in Go, TypeScript, Swift, and Python.
 
-<p align="left"> <a href="https://twitter.com/semvis123" target="blank"><img src="https://img.shields.io/twitter/follow/semvis123?logo=twitter&style=for-the-badge" alt="semvis123" /></a> </p>
+## Things I've built
 
-- 🔭 I’m currently working on **an inventory management app**
+- [logic-nodes](https://github.com/semvis123/logic-nodes): a free online [logic gate simulator](https://nodes.kriyak.com/) with a hand-written canvas editor, truth tables, and boolean expression synthesis
+- [Sonitus](https://github.com/semvis123/Sonitus): noise-control like native, for non-Apple headphones
+- [go-catdoc](https://github.com/semvis123/go-catdoc): read legacy `.doc` files in pure Go, by running catdoc as WebAssembly (no cgo)
+- [esphome-crowpanel-4.2-epaper](https://github.com/semvis123/esphome-crowpanel-4.2-epaper): ESPHome support for the CrowPanel 4.2" e-paper display
+- [Readleap](https://kriyak.com/project/readleap/): a reading tracker for iPhone, shipped to the App Store
 
-- 👨‍💻 My portfolio is available at [https://kriyak.com](https://kriyak.com)
+## Writing
 
-- 📫 How to reach me (e.g. Hire me ^_^) **gh-contact@kriyak.com**
+Occasionally I write about the engineering behind these on [my blog](https://kriyak.com/blog/):
 
-- ⚡ Fun fact, **I like programming**
+- [What I learned hand-writing a canvas node editor in TypeScript](https://kriyak.com/blog/hand-writing-a-canvas-node-editor/)
+- [Parsing 1990s Word documents in Go by running C inside WebAssembly](https://kriyak.com/blog/parsing-word-documents-in-go-with-webassembly/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/semvis123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="semvis123" height="30" width="40" /></a>
-</p>
+## Contact
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Available for freelance work, from the Netherlands and worldwide: [kriyak.com/contact](https://kriyak.com/contact/), or email **gh-contact@kriyak.com**. I'm also on [Twitter](https://twitter.com/semvis123).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semvis123&show_icons=true&locale=en&layout=compact" alt="semvis123" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semvis123&show_icons=true&locale=en" alt="semvis123" /></p>
+⚡ Fun fact: **I like programming**
