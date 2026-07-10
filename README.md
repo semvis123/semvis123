@@ -1,6 +1,6 @@
 # Hi, I'm Sem
 
-Freelance full-stack developer from the Netherlands 🇳🇱. I build custom software at [kriyak.com](https://kriyak.com): web apps, backends, and native iOS, mostly in Go, TypeScript, Swift, and Python.
+Freelance full-stack developer from the Netherlands 🇳🇱. I build web apps, backends, and native iOS apps, mostly in Go, TypeScript, Swift, and Python. My portfolio lives at [kriyak.com](https://kriyak.com).
 
 ## Things I've built
 
